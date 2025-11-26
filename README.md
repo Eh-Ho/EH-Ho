@@ -18,16 +18,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-
-[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsanhosseini1380&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanhosseini1380&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehsanhosseini1380&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-</div>
