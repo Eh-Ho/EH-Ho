@@ -22,23 +22,12 @@
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ehsanhosseini1380&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true"
-    alt="Ehsan's GitHub stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ehsanhosseini1380&theme=darcula&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
+[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsanhosseini1380&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanhosseini1380&layout=compact&theme=darcula&hide_border=true&langs_count=8"
-    alt="Top languages"
-  />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanhosseini1380&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ehsanhosseini1380&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+</div>
